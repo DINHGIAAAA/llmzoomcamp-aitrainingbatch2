@@ -77,6 +77,6 @@ git push origin <assignment-name>/<your-name>
 
 ## 7️⃣ Submission Rules
 
-The Pull Request creation time is considered your submission time
-You may push updates before the deadline
-Do not force-push or delete your branch
+- The Pull Request creation time is considered your submission time
+- You may push updates before the deadline
+- Do not force-push or delete your branch
